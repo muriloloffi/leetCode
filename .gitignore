@@ -1,0 +1,6 @@
+*.o
+*/*.o
+
+*.exe
+*/*.exe
+2236/2236_rootEqualsSumOfChildren
